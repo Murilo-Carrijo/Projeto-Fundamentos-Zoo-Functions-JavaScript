@@ -32,9 +32,6 @@ O projeto tem como objetivo desenvolver funções utilizando JavaScript para fac
   * Instale as dependências:
     * `npm install`
 
-3. Verifique se possui a extensão 'Live Server' instalada em seu VSCode.
-  * Clique no arquivo HTLM com o botao direito e selecione a opção 'Abrir com Live Server'
-
 ---
 
 ## Desenvolvimento
