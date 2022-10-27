@@ -24,7 +24,7 @@ O projeto tem como objetivo desenvolver funções utilizando JavaScript para fac
 ## Como rodar o projeto localmente
 
 1. Clone o repositório
-  <!-- * `git@github.com:Murilo-Carrijo/Projeto-Fundamentos-Trybewarts-JavaScript.git` -->
+  * `git@github.com:Murilo-Carrijo/Projeto-Fundamentos-Zoo-Functions-JavaScript.git`
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd Projeto-Fundamentos-Zoo-Functions-JavaScript`
 
